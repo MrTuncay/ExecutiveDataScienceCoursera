@@ -13,19 +13,21 @@ It is worth contrasting modern machine learning and prediction with more traditi
 
 For this discussion, I would summarize (focusing on supervised learning) some characteristics of ML as:
 
-the emphasis on predictions;
-evaluating results via prediction performance;
-having concern for overfitting but not model complexity per se;
-emphasis on performance;
-obtaining generalizability through performance on novel datasets;
-usually no superpopulation model specified;
-concern over performance and robustness.
+* the emphasis on predictions;
+* evaluating results via prediction performance;
+* having concern for overfitting but not model complexity per se;
+* emphasis on performance;
+* obtaining generalizability through performance on novel datasets;
+* usually no superpopulation model specified;
+* concern over performance and robustness.
+
 In contrast, I would characterize the typical characteristics of traditional statistics as:
 
-emphasizing superpopulation inference;
-focusing on a-priori hypotheses;
-preferring simpler models over complex ones (parsimony), even if the more complex models perform slightly better;
-emphasizing parameter interpretability;
-having statistical modeling or sampling assumptions that connect data to a population of interest;
-having concern over assumptions and robustness.
+* emphasizing superpopulation inference;
+* focusing on a-priori hypotheses;
+* preferring simpler models over complex ones (parsimony), even if the more complex models perform slightly better;
+* emphasizing parameter interpretability;
+* having statistical modeling or sampling assumptions that connect data to a population of interest;
+* having concern over assumptions and robustness.
+
 In recent years, the distinction between both fields have substantially faded. ML researchers have worked tirelessly to improve interpretations while statistical researchers have improved the prediction performance of their algorithms.
