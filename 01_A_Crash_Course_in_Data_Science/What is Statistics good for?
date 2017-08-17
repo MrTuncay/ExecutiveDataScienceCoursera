@@ -28,8 +28,8 @@ in traditional inference, but by challenging the algorithm on novel datasets. Pr
 marketing and financial forecasting.
 
 ## Experimental design
-Experimental design is the act of controlling your experimental process to optimize the chance of arriving at sound conclusions. The most 
-notable example of experimental design is randomization. In randomization a treatment is randomized across experimental units to make 
-treatment groups as comparable as possible. Clinical trials and A/B testing both employ randomization. In random sampling, one tries to 
-randomly sample from a population of interest to get better generalizability of the results to the population. Many election polls try 
-to get a random sample.
+Experimental design is the act of controlling your experimental process to optimize the chance of arriving at sound conclusions. The 
+most notable example of experimental design is randomization. In randomization a treatment is randomized across experimental units to 
+make treatment groups as comparable as possible. Clinical trials and A/B testing both employ randomization. In random sampling, one 
+tries to randomly sample from a population of interest to get better generalizability of the results to the population. Many election 
+polls try to get a random sample.
